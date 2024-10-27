@@ -2,7 +2,7 @@
  Hello, I'm Joan Paredes 👋
 </div>
 
-About Me:
+<br>About Me</br>:
 <p>
 Developer and enthusiast for learning new technologies, currently focusing on Data Analysis.
 </p>
