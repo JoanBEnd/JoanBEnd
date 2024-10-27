@@ -6,8 +6,8 @@
 <p>
 Developer and enthusiast for learning new technologies, currently focusing on Data Analysis.
 </p>
-<ul>
- <li display ="none">✔ Análisis de datos 📊 </li>
+<ul style="list-style-type: none; padding: 0;">
+ <li >✔ Análisis de datos 📊 </li>
  <li>✔ SQL 🛢️</li>
  <li>✔ Software Developer 👨‍💻</li>
  <li>✔ Python 🐍 </li>
