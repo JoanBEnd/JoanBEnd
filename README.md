@@ -3,7 +3,11 @@
 </div>
 
 About Me:
-Desarrollador apasionado por análisis de datos, colaborativo, analítico y resolutivo.
+Desarrollador y entusiasta en aprender nuevas tecnologias, actualmente me estoy basando en el Analisis de Datos.
+📊 Análisis de datos
+🛢️SQL
+👨‍💻Software Developer
+🐍 Python
 <!--
 **JoanBEnd/JoanBEnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
