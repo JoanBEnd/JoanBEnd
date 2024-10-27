@@ -3,11 +3,15 @@
 </div>
 
 About Me:
+<p>
 Desarrollador y entusiasta en aprender nuevas tecnologias, actualmente me estoy basando en el Analisis de Datos.
-📊 Análisis de datos
-🛢️SQL
-👨‍💻Software Developer
-🐍 Python
+</p>
+<ul>
+ <li>📊 Análisis de datos</li>
+ <li>🛢️SQL </li>
+ <li>👨‍💻Software Developer </li>
+ <li>🐍 Python </li>
+ </ul>
 <!--
 **JoanBEnd/JoanBEnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
