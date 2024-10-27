@@ -1,5 +1,6 @@
+<div style="align:center">
 ## Hello, I'm Joan Paredes 👋
-
+</div>
 <!--
 **JoanBEnd/JoanBEnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
