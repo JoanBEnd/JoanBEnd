@@ -1,6 +1,9 @@
 <div align="center">
  Hello, I'm Joan Paredes 👋
 </div>
+
+About Me:
+Desarrollador apasionado por análisis de datos, colaborativo, analítico y resolutivo.
 <!--
 **JoanBEnd/JoanBEnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
