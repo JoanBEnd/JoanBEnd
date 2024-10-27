@@ -5,13 +5,11 @@
 <b>About Me:</b>
 <p>
 Developer and enthusiast for learning new technologies, currently focusing on Data Analysis.
-</p>
-<ul style="list-style-type: none; padding: 0;">
- <li >✔ Análisis de datos 📊 </li>
- <li>✔ SQL 🛢️</li>
- <li>✔ Software Developer 👨‍💻</li>
- <li>✔ Python 🐍 </li>
- </ul>
+</p> 
+<p>✔ Análisis de datos 📊</p>
+<p>✔ SQL 🛢️</p>
+<p>✔ Software Developer 👨‍💻</p>
+<p>✔ Python 🐍</p>
 <!--
 **JoanBEnd/JoanBEnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
