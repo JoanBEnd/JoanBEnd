@@ -7,10 +7,10 @@
 Developer and enthusiast for learning new technologies, currently focusing on Data Analysis.
 </p>
 <ul>
- <li>📊 Análisis de datos</li>
- <li>🛢️SQL </li>
- <li>👨‍💻Software Developer </li>
- <li>🐍 Python </li>
+ <li>✔ Análisis de datos 📊 </li>
+ <li>✔ SQL 🛢️</li>
+ <li>✔ Software Developer 👨‍💻</li>
+ <li>✔ Python 🐍 </li>
  </ul>
 <!--
 **JoanBEnd/JoanBEnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
