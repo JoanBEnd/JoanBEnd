@@ -7,7 +7,7 @@
 Developer and enthusiast for learning new technologies, currently focusing on Data Analysis.
 </p>
 <ul>
- <li>✔ Análisis de datos 📊 </li>
+ <li style="display:none">✔ Análisis de datos 📊 </li>
  <li>✔ SQL 🛢️</li>
  <li>✔ Software Developer 👨‍💻</li>
  <li>✔ Python 🐍 </li>
