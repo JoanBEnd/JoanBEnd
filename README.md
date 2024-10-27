@@ -4,7 +4,7 @@
 
 About Me:
 <p>
-Desarrollador y entusiasta en aprender nuevas tecnologias, actualmente me estoy basando en el Analisis de Datos.
+Developer and enthusiast for learning new technologies, currently focusing on Data Analysis.
 </p>
 <ul>
  <li>📊 Análisis de datos</li>
